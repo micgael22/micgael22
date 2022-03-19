@@ -1,6 +1,6 @@
 ### Hi there 👋, Micgael Julies
+
 #### Software Development
-![Software Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm Micgael Julies and doing a career switch from Hospitality and catering services to become a Software engineer.
 My goal is to gain more knowledge and skills to get a QA role.
