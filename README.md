@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Micgael Julies
 #### Software Development
 I'm Micgael Julies and doing a career switch from Hospitality and catering services to become a Software Developer.
-My objective is to attain knowledge and gain more skills to improve in software skills. 
+My objective is to attain knowledge and gain more skills to improve in software development. 
 #### Connect with me:  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='35'>](https://www.linkedin.com/in/MicgaelJulies/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='35'>](https://www.facebook.com/MicgaelJulies) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='35'>](https://www.instagram.com/migo_vibe22/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='35'>](https://twitter.com/MICGAEL) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='35'>](https://github.com/micgael22) <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='35'> 
 #### Languages and Tools: 
