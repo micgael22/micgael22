@@ -1,12 +1,17 @@
 ### Hi there 👋, I am Micgael Julies
 #### Software Development
 I am doing a career switch from Hospitality and Catering Services to Software Engineering.
-My objective is to attain knowledge and gain more skills to improve in software development. [Improved on Manual & Automated for Software Quality Assurance]
+My objective is to attain knowledge and gain more skills to improve in software development. Improved on Manual testing & Automated testing. Test Automation Frameworks: Selenium with TestNG over JUnit.
+
+#### Roles: QA analyst / QA testing
+#### Student at ALX SE -Fullstack Engineer -(Remote)
+
 #### Connect with me:  
 [![My Skills](https://skillicons.dev/icons?i=linkedin,instagram,twitter,)](https://skillicons.dev)
 
 #### Tech Stack: 
-[![My Skills](https://skillicons.dev/icons?i=java,css,html,javascript,mysql)](https://skillicons.dev)
+#### Postman
+[![My Skills](https://skillicons.dev/icons?i=java,css,html,javascript,mysql,jenkins,nodejs)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=idea,selenium,vscode,stackoverflow,maven,github,git)](https://skillicons.dev)
 
