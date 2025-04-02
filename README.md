@@ -13,7 +13,7 @@ Jira  :black_small_square:  Postman  :black_small_square:  Appium
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Shooting%20Star.png" alt="Shooting Star" width="25" height="25" /> :black_small_square:  IntelliJ  :black_small_square:  Android Studio  :black_small_square:  Visual Studio Code
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="25" height="25" /> :black_small_square:  Slack  :black_small_square:  Matermost
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="25" height="25" /> :black_small_square: Microsoft Teams :black_small_square:  Slack  :black_small_square:  Matermost
 
 ### SKILLS <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Left.webp" alt="Magnifying Glass Tilted Left" width="25" height="25" />
 :black_small_square:  Collaboration and Communication  :black_small_square:  Software Development Life Cycle (SDLC)  :black_small_square:  Bug Tracking & Logging  
